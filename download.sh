@@ -10,4 +10,4 @@ if [ -z "$URL" ]; then
 fi
 
 # Run youtube-dl with the provided URL
-youtube-dl "$URL""
+youtube-dl "$URL"
