@@ -23,7 +23,10 @@ docker build -t youtube-dl .
 
 https://github.com/nagarjuncsrecloud/exercise_1.15_homework_simple_docker_project
 
+# GitHub Workflows
+
+https://github.com/nagarjuncsrecloud/exercise_1.15_homework_simple_docker_project/tree/main/.github/workflows
+
 # Pulling the project
 
-git pull 
-
+git pull https://github.com/nagarjuncsrecloud/exercise_1.15_homework_simple_docker_project.git
