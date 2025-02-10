@@ -29,3 +29,7 @@ https://github.com/nagarjuncsrecloud/exercise_1.15_homework_simple_docker_projec
 # Pulling the project
 
 git pull https://github.com/nagarjuncsrecloud/exercise_1.15_homework_simple_docker_project.git
+
+# Deployed in Render
+
+https://exercise-1-15-homework-simple-docker.onrender.com/
