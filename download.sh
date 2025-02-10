@@ -1,10 +1,13 @@
 #!/bin/bash
 
-# Check if the URL is provided as an argument
-if [ -z "$1" ]; then
-  echo "Usage: $0 <URL>"
+# URL to download from (this should be passed when running the script)
+URL="$1"
+
+# If no URL is provided, print an error message
+if [ -z "$URL" ]; then
+  echo "Error: You must provide a URL."
   exit 1
 fi
 
-# Use youtube-dl to download the video from the provided URL
-youtube-dl "$1"
+# Run youtube-dl with the provided URL
+youtube-dl "$URL""
