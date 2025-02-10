@@ -12,8 +12,7 @@ Pip (pip install youtube-dl)
 
 # Command for accessing and pulling Docker Image (Use Powershell)
 
-docker pull nagarjuncsrecloud/youtube-dl:latest
-docker pull nagarjuncsrecloud/youtube-dl
+docker pull nagarjuncsrecloud/exercise_1.15_homework_simple_docker_project:latest
 
 # Build the project
 
